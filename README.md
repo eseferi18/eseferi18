@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eseferi18
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Computer Engineering at Epoka University
+- 💞️ I’m looking to collaborate on programming work!
+- 📫 How to reach me eseferi18@epoka.edu.al
